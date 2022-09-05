@@ -1,0 +1,52 @@
+{
+  "signup": {
+    "fullName": "João",
+    "cpf": "00000014141",
+    "email": "joao_dos_testes@hotmail.com",
+    "whatsapp": "32988776655",
+    "address": {
+      "postalcode": "29215340",
+      "street": "Rua Aécio Alves Costa",
+      "number": "100",
+      "details": "ap 202",
+      "district": "Muquiçaba",
+      "city_uf": "Guarapari/ES"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "cpf_inv": {
+    "fullName": "Jorge Miguel",
+    "cpf": "a00000014141AA",
+    "email": "joaotestes@hotmail.com",
+    "whatsapp": "32988776655",
+    "address": {
+      "postalcode": "29215340",
+      "street": "Rua Aécio Alves Costa",
+      "number": "100",
+      "details": "ap 202",
+      "district": "Muquiçaba",
+      "city_uf": "Guarapari/ES"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+
+  "email_inv": {
+    "fullName": "jucelino Miguel",
+    "cpf": "14569852936",
+    "email": "jucelinotestes.com.br",
+    "whatsapp": "32988776655",
+    "address": {
+      "postalcode": "29215340",
+      "street": "Rua Aécio Alves Costa",
+      "number": "100",
+      "details": "ap 202",
+      "district": "Muquiçaba",
+      "city_uf": "Guarapari/ES"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
